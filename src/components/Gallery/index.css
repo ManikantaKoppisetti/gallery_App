@@ -1,0 +1,33 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #ffffff;
+  padding: 30px;
+  text-align: center;
+  font-weight: 'Roboto';
+}
+
+.image-list {
+  list-style-type: none;
+  margin: 15px;
+}
+.image {
+  width: 75%;
+}
+.heading {
+  font-size: 20px;
+  font-weight: bold;
+  color: #1e293b;
+}
+
+.description {
+  font-size: 18px;
+  color: #64748b;
+}
+
+.button-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-right: 20px;
+}
